@@ -78,7 +78,7 @@
     font-size: 1.2em;
     max-width: 600px;
     margin: auto;
-    margin-bottom: 10px;
+    padding-bottom: 8px;
     padding-right: 12px;
     text-shadow: 5px 5px 15px rgba(136, 109, 93, 0.616);
    }
@@ -87,6 +87,7 @@
     font-family: var(--fonte-padrao);
     box-shadow: 0px 7px 9px rgba(0, 0, 0, 0.418);
     padding-right: 2px;
+    padding-bottom: 12px;
    }
    nav > a:hover{
     background-color: var(--cor03);
@@ -103,6 +104,7 @@
     color: var(--cor1);
     text-decoration: none;
     padding: 5px;
+    margin-left: 8px;
    }
    main{
     min-width: 263px;
